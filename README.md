@@ -1,4 +1,5 @@
-# WordBlitzAssistant
+# WordBlitzAssistant 
+相同的，以下內容為ChatGPT所寫
 
 📌 WordBlitzAssistant – 臉書單字爆爆自動瞄準助手
 🔍 描述：
